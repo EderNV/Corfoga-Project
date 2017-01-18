@@ -12,12 +12,13 @@
 
     "require": {
     "tymon/jwt-auth": "0.5.*",
-    "dingo/api": "1.0.*@dev"
+    "dingo/api": "1.0.*@dev" ,
+        "maatwebsite/excel": "~2.1.0"
     },
 
     
     "require-dev": {
-        "maatwebsite/excel": "~2.1.0",
+       
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~5.0",
