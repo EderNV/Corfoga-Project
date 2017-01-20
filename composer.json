@@ -8,7 +8,7 @@
         "php": ">=5.6.4",
         "laravel/framework": "5.3.*",
         "laracasts/flash": "^2.0",
-        "heroku/heroku-buildpack-php": "^117.0",
+        
         
         "tymon/jwt-auth": "0.5.*",
     "dingo/api": "1.0.*@dev" ,
@@ -19,7 +19,7 @@
 
     
     "require-dev": {
-       
+       "heroku/heroku-buildpack-php": "^117.0",
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~5.0",
