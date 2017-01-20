@@ -13,7 +13,7 @@
     "require": {
     "tymon/jwt-auth": "0.5.*",
     "dingo/api": "1.0.*@dev" ,
-        "maatwebsite/excel": "~2.1.0"
+    "maatwebsite/excel": "~2.1.0"
     },
 
     
